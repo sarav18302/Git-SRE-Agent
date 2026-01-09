@@ -1,0 +1,6 @@
+.env
+__pycache__/
+models/
+git_sandbox/
+outputs/
+*.jsonl
