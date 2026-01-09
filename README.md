@@ -132,7 +132,6 @@ git-sre-agent/
 │   └── generator.py         # Groq-powered synthetic trace generator
 ├── src/
 │   ├── engine/              # Core agent reasoning & ReAct loop logic
-│   ├── utils/               # Guardrail validation & sandbox management
 │   └── config.py            # Environment & hyperparameter orchestration
 ├── main.py                  # Entry point for training and agent modes
 ├── .env.example             # Template for required API keys
